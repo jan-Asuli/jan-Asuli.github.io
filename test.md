@@ -1,7 +1,6 @@
 ---
 layout: page
-title: test
+title: gay
 permalink: /gay/
 ---
-
-new test on the test document
+why did you click on the page called gay. faggot
