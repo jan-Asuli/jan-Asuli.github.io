@@ -1,7 +1,7 @@
 ---
 layout: page
 title: test
-permalink: /test/
+permalink: /gay/
 ---
 
-Test Document
+new test on the test document
