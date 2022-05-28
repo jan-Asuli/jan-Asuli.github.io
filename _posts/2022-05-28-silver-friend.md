@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Silver Friend 
+title: Poem: Silver Friend  
 ---
 
 My silver friend,\
